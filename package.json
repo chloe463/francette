@@ -43,7 +43,7 @@
     "@angular-devkit/architect": "~0.901.11",
     "@angular-devkit/build-angular": "~0.1100.6",
     "@angular-devkit/build-optimizer": "~0.1000.5",
-    "@angular-devkit/build-webpack": "~0.1100.6",
+    "@angular-devkit/build-webpack": "~0.1201.2",
     "@angular/cli": "11.0.6",
     "@angular/compiler-cli": "11.0.8",
     "@angular/language-service": "11.0.8",
